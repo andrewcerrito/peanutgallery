@@ -1,4 +1,5 @@
 // Woooooooooo
+//OH GOD THIS IS A MISTAKE
 const int f1 = 3; // pin values for fan
 const int f2 = 5;
 
